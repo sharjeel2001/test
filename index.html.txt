@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>git practice</head>
+</head>
+
+<body>
+<h1>practce of git></h1>
+</body>
+</html>
